@@ -1,0 +1,5 @@
+hello
+hey there
+ola
+adeus
+goodbye
